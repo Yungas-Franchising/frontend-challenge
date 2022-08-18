@@ -36,12 +36,12 @@ Sua tarefa é implementar as ações do módulo seguindo a linha estética dos m
 - Mobile friendly.
 - Adotar estratégias escaláveis de gerenciamento de estado e/ou side-effects. 
 - Containerização.
-- Código funcional ao invés de orientado a objetos (somos fanáticos por Ramda e RxJS!).
-- Ter familiaridade com React Native/Vue Native/Svelte Native.
+- Programação funcional.
+- Ter familiaridade com Flutter/React Native/Vue Native/Svelte Native.
 - Comentários (pode ser no README) sobre como faria deploy deste app. Como lidaria com:
   - Configs?
   - Secrets?
   - Logs?
-- Deploy deste app na AWS ou Heroku (mas não precisa gastar dinheiro!).
+- Deploy onde desejar, coloque o link no readme.
 
 Obs.: Em relação aos extras, não é "tudo ou nada", faça o que conseguir!
