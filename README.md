@@ -10,7 +10,7 @@ A Yungas é uma plataforma para redes de franquias com diversos módulos. A idei
 
 O módulo de Treinamento é utilizado pelos clientes da Yungas para facilitar a capacitação de colaboradores e franqueados de suas redes, melhorando a produtividade dos colaboradores e o desempenho das franquias.
 
-Neste repositório você vai encontrar mockups do módulo de Treinamento, juntamente com um arquivo em Markdown (USER-STORIES.md) descrevendo algumas das ações que usuários que solicitaram a feature querem executar nesse módulo.
+Neste repositório você vai encontrar mockups do módulo de Treinamento, juntamente com um arquivo em Markdown ([USER-STORIES.md](./USER-STORIES.md)) descrevendo algumas das ações que usuários que solicitaram a feature querem executar nesse módulo.
 
 Sua tarefa é implementar as ações do módulo seguindo a linha estética dos mockups. Sinta-se livre para tomar suas próprias decisões de UI/UX e preencher "gaps" nos [mockups](https://www.figma.com/file/9RCzRXNv6iELZd2sJfQ59x/Teste-Front-end-Yungas?node-id=0%3A1). Suas decisões de UI/UX e sua capacidade de interpretação dos mockups serão utilizadas como critério de avaliação.
 
