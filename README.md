@@ -5,8 +5,6 @@ A forma como você resolverá este desafio é importante para entendermos seus p
 
 A Yungas utiliza [Svelte](https://svelte.dev/) para seu front-end. Familiaridade com Svelte não é um requerimento, mas um diferencial. Se você teve experiência com Vue ou React, Svelte será moleza pra você. Neste desafio, dentre React, Vue e Svelte, utilize o framework que mais dominar. 
 
-Evite libraries de componentes prontos ou frameworks de CSS - queremos ver sua capacidade de criar componentes que usam libraries externas ao framework (ou seja, escritas em JavaScript ou TypeScript puro), além de sua capacidade de estilizar a solução.
-
 ## O Desafio
 A Yungas é uma plataforma para redes de franquias com diversos módulos. A ideia desse desafio é simular, de maneira simplificada, o processo de desenvolvimento de um módulo da plataforma: o módulo de Treinamento. 
 
@@ -35,7 +33,7 @@ Sua tarefa é implementar as ações do módulo seguindo a linha estética dos m
 - Se fizer em Svelte, top, gostamos de Svelte :^) 
 - Mobile friendly.
 - Adotar estratégias escaláveis de gerenciamento de estado e/ou side-effects. 
-- Containerização.
+- Dockerização.
 - Programação funcional.
 - Ter familiaridade com Flutter/React Native/Vue Native/Svelte Native.
 - Comentários (pode ser no README) sobre como faria deploy deste app. Como lidaria com:
