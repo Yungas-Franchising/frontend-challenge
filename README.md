@@ -3,10 +3,10 @@ O objetivo deste desafio é avaliar a sua maneira de pensar e resolver os proble
 
 A forma como você resolverá este desafio é importante para entendermos seus padrões de qualidade, organização, performance, etc. No final, lhe daremos retorno sobre os pontos que achamos positivos e negativos.
 
-A Yungas utiliza [Svelte](https://svelte.dev/) para seu front-end. Familiaridade com Svelte não é um requerimento, mas um diferencial. Se você teve experiência com Vue ou React, Svelte será moleza pra você. Neste desafio, dentre React, Vue e Svelte, utilize o framework que mais dominar. 
+A Yungas utiliza [Svelte](https://svelte.dev/) para seu front-end. Familiaridade com Svelte não é um requerimento, mas um diferencial. Se você teve experiência com outros frameworks (React, Vue, Angular) também será válido.
 
 ## O Desafio
-A Yungas é uma plataforma para redes de franquias com diversos módulos. A ideia desse desafio é simular, de maneira simplificada, o processo de desenvolvimento de um módulo da plataforma: o módulo de Treinamento. 
+A Yungas é uma plataforma para redes de franquias com diversos módulos. A ideia desse desafio é simular, de maneira simplificada, o processo de desenvolvimento de um módulo da plataforma: o módulo de Treinamento.
 
 O módulo de Treinamento é utilizado pelos clientes da Yungas para facilitar a capacitação de colaboradores e franqueados de suas redes, melhorando a produtividade dos colaboradores e o desempenho das franquias.
 
@@ -17,29 +17,21 @@ Sua tarefa é implementar as ações do módulo seguindo a linha estética dos m
 [Mockup](https://www.figma.com/file/9RCzRXNv6iELZd2sJfQ59x/Teste-Front-end-Yungas?node-id=0%3A1)
 
 ## As Regras
-- Implementar em Svelte, Vue ou React.
+- Implementar em algum framework de front-end, de preferência o Svelte.
 - Disponibilizar o resultado em repositório público (não importa a plataforma).
 
 ## Os Critérios
 - Organização do projeto de acordo com responsabilidades.
 - Organização e reutilização do código via componentização.
-- Responsividade.
-- Utilizar CSS quando possível ao invés de JS.
-- Know-how de best practices do framework escolhido.
-- Presença e qualidade de testes.
 - Interpretação das intenções estéticas do mockup, capacidade de preencher os "gaps".
 
 ## Extras 
 - Se fizer em Svelte, top, gostamos de Svelte :^) 
-- Mobile friendly.
-- Adotar estratégias escaláveis de gerenciamento de estado e/ou side-effects. 
-- Dockerização.
-- Programação funcional.
-- Ter familiaridade com Flutter/React Native/Vue Native/Svelte Native.
-- Comentários (pode ser no README) sobre como faria deploy deste app. Como lidaria com:
-  - Configs?
-  - Secrets?
-  - Logs?
+- Responsividade & mobile first.
+- Utilizar TailwindCSS.
+- Presença e qualidade de testes.
+- Clean architecture.
+- Explicações (pode ser no README) de como seria o deploy deste app.
 - Deploy onde desejar, coloque o link no readme.
 
 Obs.: Em relação aos extras, não é "tudo ou nada", faça o que conseguir!
